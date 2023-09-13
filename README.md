@@ -1,7 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg)">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://preview.redd.it/h9jz60rznnp21.jpg?width=960&crop=smart&auto=webp&s=311fe3dd499cc40e2b5da9877ff8e7e5867240b8)">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg/800px-Liverpool_FC_crest%2C_Main_Stand.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://preview.redd.it/h9jz60rznnp21.jpg?width=960&crop=smart&auto=webp&s=311fe3dd499cc40e2b5da9877ff8e7e5867240b8">
 </picture>
+
 
 ### Hi there 👋
 Current Masters of International Affairs Candidate at Columbia SIPA
