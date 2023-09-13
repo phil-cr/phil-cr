@@ -1,5 +1,14 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/d/d1/Liverpool_FC_crest%2C_Main_Stand.jpg)">
+</picture>
 
+### Hi there 👋
+Current Masters of International Affairs Candidate at Columbia SIPA
+
+Interested in post-conflict reconstruction, heritage preservation and quantitative methodology
+
+Avid meme curator & traveller
 <!--
 **phil-cr/phil-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
